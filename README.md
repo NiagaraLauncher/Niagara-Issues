@@ -1,12 +1,13 @@
-## We're Migrating Away From GitHub
+## We Have Migrated Away From GitHub
 
-**This repository will soon become read-only.**  
-We're moving feature requests and bug reports to a new platform:  
-👉 [**Submit feedback here**](https://feedback.niagaralauncher.com/)
+We have moved feature requests and bug reports to a new platform:  
+👉 [**Submit your feedback**](https://feedback.niagaralauncher.com/)
+
+[Releases](https://github.com/NiagaraLauncher/Niagara-Issues/releases) will continue to be posted here.
 
 ---
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/8bitPit/Niagara-Issues)](https://github.com/8bitPit/Niagara-Issues/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/NiagaraLauncher/Niagara-Issues)](https://github.com/NiagaraLauncher/Niagara-Issues/releases)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/niagara-launcher/localized.svg)](https://crowdin.com/project/niagara-launcher)
 
 [![Discord](https://img.shields.io/discord/728630549278883950?label=Chat%20on%20Discord&style=social)](https://niagaralauncher.app/discord)
@@ -16,14 +17,12 @@ We're moving feature requests and bug reports to a new platform:
 ### How to request a feature or file a bug report
 
 - First, please read [this](https://help.niagaralauncher.app/article/44-feature-requests "How To Request a Feature") guide that explains what types of requests we accept.
-- Then, submit your request by [creating a new issue](https://github.com/8bitPit/Niagara-Issues/issues/new/choose "New issue").
+- Then, submit your request by [creating a new post](https://github.com/NiagaraLauncher/Niagara-Issues/issues/new/choose "New post").
 
 ### Additional links
-- [Download app from here](https://github.com/8bitPit/Niagara-Issues/releases)
-- [Download app from Google Play](https://play.google.com/store/apps/details?id=bitpit.launcher)
+
 - [Our Website](https://niagaralauncher.app/)
+- [Download app from GitHub releases (APK file)](https://github.com/NiagaraLauncher/Niagara-Issues/releases)
+- [Download app from Google Play](https://play.google.com/store/apps/details?id=bitpit.launcher)
 
-
-This repository will soon become read-only as we're slowly migrating to a new feature request platform. You can already visit it and submit feature requests here: https://feedback.niagaralauncher.com/
-
-Have fun using Niagara :)
+Enjoy using Niagara! :)
