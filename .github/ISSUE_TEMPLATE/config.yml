@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Request a feature
+    url: https://feedback.niagaralauncher.com/en?b=67caf0f063e0bd23b433f20a
+    about: Do you have an idea for Niagara Launcher?
+  - name: Report a bug
+    url: https://feedback.niagaralauncher.com/en?b=67caf1aac392daef53b12d76
+    about: Is something not working as it should?
