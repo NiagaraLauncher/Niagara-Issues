@@ -28,5 +28,5 @@ Do not add a "Co-Authored-By: Claude" note (or any similar co-authored-by traile
 
 ## Git
 
-- The default branch of `NiagaraLauncher/Niagara-Issues` is `master`. Nothing is pushed or force-pushed
-  to it without explicit confirmation; changes go through a branch and a pull request.
+- The default branch of `NiagaraLauncher/Niagara-Issues` is `master`. Never push to it without explicit
+  confirmation, and never force-push it; changes go through a branch and a pull request.
